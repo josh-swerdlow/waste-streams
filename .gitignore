@@ -1,0 +1,5 @@
+# Ignore cached files
+*.json
+
+# Ignore downloaded data
+Data/
